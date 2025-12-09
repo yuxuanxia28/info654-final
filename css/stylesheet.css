@@ -14,9 +14,9 @@ html, body, ul, li {
   font-family: 'MS Sans Serif', Tahoma, Arial, sans-serif;
 }
 
-/* Static background image — replaced animated gradient per user request */
+
 body {
-  /* path is relative to css/stylesheet.css, go up one level to use the image in /pics */
+  
   background-image: url('../pics/AdobeStock_782209131.jpeg');
   background-position: center center;
   background-size: cover;
@@ -92,7 +92,7 @@ body {
   position: relative;
 }
 
-/* Windows styling */
+
 .window {
   position: absolute;
   background: #f0f0f0;
@@ -644,4 +644,34 @@ body {
   border-radius: 4px;
 }
 
+
+.about-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.85);
+  color: #fff;
+  padding: 12px 16px;
+  font-size: 12px;
+  text-align: center;
+  border-top: 2px solid #dfdfdf;
+  z-index: 2000;
+  margin: 0;
+}
+
+.about-footer p {
+  margin: 4px 0;
+  padding: 0;
+}
+
+.about-footer a {
+  color: #87ceeb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.about-footer a:hover {
+  text-decoration: underline;
+}
 
