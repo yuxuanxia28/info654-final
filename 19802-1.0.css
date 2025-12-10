@@ -67,8 +67,8 @@ h2 {
     color:rgb(244, 199, 141);
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2017%2F03%2F17%2F2017-03-17-09-16-41.jpg&f=1&nofb=1&ipt=9ce0fb6a645b3ff5f0d25f81a7f8a4a407ff9e025206dc878a332b90acd55e46);
    background-size: 100%;
-    margin-left: 520px;
-    margin-right: 310px;
+    margin-left: 30vw;
+    margin-right: 20vw;
     border-style:groove;
     border-width: 7px;
     border-color:rgb(124, 77, 167);
@@ -93,8 +93,8 @@ h2 {
 
 .things{
     color:rgb(227, 158, 68);
-    margin-left: 520px;
-    margin-right: 310px;
+    margin-left: 30vw;
+    margin-right: 20vw;
     border-style: ridge;
     border-color: rgb(124, 77, 167);
     border-width: 5px; 
@@ -105,8 +105,8 @@ h2 {
 color:rgb(244, 199, 141);
  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2017%2F03%2F17%2F2017-03-17-09-16-41.jpg&f=1&nofb=1&ipt=9ce0fb6a645b3ff5f0d25f81a7f8a4a407ff9e025206dc878a332b90acd55e46);
    background-size: 100%;
-    margin-left: 520px;
-    margin-right: 310px;
+    margin-left: 30vw;
+    margin-right: 20vw;
     border-style:groove;
     border-width: 7px;
     border-color:rgb(124, 77, 167);
@@ -123,8 +123,8 @@ h6{ color: beige;
 .photos{
     color:rgb(234, 175, 99);
     font-size: .5em;
-    margin-left: 520px;
-    margin-right: 310px;
+    margin-left: 30vw;
+    margin-right: 20vw;
      border-style:groove;
     border-width: 7px;
     border-color:rgb(124, 77, 167);
